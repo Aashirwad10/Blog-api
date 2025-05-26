@@ -24,11 +24,14 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 
 ## 📮 API Endpoints
 
-| Method | Route             | Description          |
-|--------|-------------------|----------------------|
-| POST   | `/api/users`      | Create a user        |
-| POST   | `/api/posts`      | Create a post todo   |
-| POST   | `/api/comments`   | Create a comment     |
+| Method | Route             | Description                              |
+|--------|-------------------|------------------------------------------|
+| POST   | `/api/users`      | Create a user                            |
+| POST   | `/api/posts`      | Create a post todo                       |
+| POST   | `/api/comments`   | Create a comment                         |
+| GET    | `/api/users`      | Get all users                            |
+| GET    | `/api/posts`      | Get all posts                            |
+| GET    | `/api/posts/:id`  | Get a get single post with all comments  |
+| GET    | `/api/comments`   | Get all comments                         |
 
-|--------|-------------------|----------------------|
 
