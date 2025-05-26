@@ -1,4 +1,4 @@
-📝 Todo API
+📝 Blog API
 
 A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and **MongoDB** using **Mongoose**.
 
