@@ -41,9 +41,10 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 1. **Clone the repository**
 
     ```
-    git clone https://github.com/Aashirwad10/todo-api.git
+    git clone https://github.com/Aashirwad10/Blog-api
     cd todo-api
     ```
+    
 2. **Install dependencies**
 
     ```
