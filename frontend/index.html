@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mini Blog</title> 
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Mini Blog</h1>
+
+  <!-- User Creation -->
+  <section>
+    <h2>Create User</h2>
+    <input id="username" placeholder="Username" />
+    <input id="email" placeholder="Email" />
+    <button onclick="createUser()">Create User</button>
+  </section>
+
+  <!-- Post Creation -->
+  <section>
+    <h2>Create Post</h2>
+    <input id="post-title" placeholder="Title" />
+    <textarea id="post-body" placeholder="Body"></textarea>
+    <select id="post-author-select">
+      <option value="">Select Author</option>
+    </select>
+    <button onclick="createPost()">Create Post</button>
+  </section>
+
+  <!-- Comment Creation -->
+  <section>
+    <h2>Create Comment</h2>
+    <input id="comment-text" placeholder="Comment" />
+    <select id="comment-post-select">
+      <option value="">Select Post</option>
+    </select>
+    <select id="comment-author-select">
+      <option value="">Select Commenter</option>
+    </select>
+    <button onclick="createNewComment()">Create Comment</button>
+  </section>
+
+  <!-- All Posts -->
+  <section>
+    <h2>All Posts</h2>
+    <div id="posts"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
