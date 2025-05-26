@@ -67,3 +67,7 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 
 Server runs on `http://localhost:5000` (or your specified port)
 
+## 📸 API Examples
+    
+Here are some example requests and responses using Postman to demonstrate how the API works:
+
