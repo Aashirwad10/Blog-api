@@ -33,5 +33,37 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 | GET    | `/api/posts`      | Get all posts                            |
 | GET    | `/api/posts/:id`  | Get a get single post with all comments  |
 | GET    | `/api/comments`   | Get all comments                         |
+| PUT    | `/api/posts/:id`  | Update post                              |
+| DELETE | `/api/posts/:id`  | Delete post and comments                 |
 
+## 🔧 Setup Instructions
+
+1. **Clone the repository**
+
+    ```
+    git clone https://github.com/Aashirwad10/todo-api.git
+    cd todo-api
+    ```
+2. **Install dependencies**
+
+    ```
+    npm install
+    ```
+
+3. **Create `.env` file**
+
+    - Create a `.env` file in the root folder
+    - Add your MongoDB URI like this:
+
+      ```
+      MONGO_URI= mongodb+srv://abcdefghijklmnopqrstuvwxyz
+      ```
+
+4. **Run the server**
+
+    ```
+    npm run dev
+    ```
+
+Server runs on `http://localhost:5000` (or your specified port)
 
