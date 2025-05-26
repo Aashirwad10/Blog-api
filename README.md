@@ -42,7 +42,7 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 
     ```
     git clone https://github.com/Aashirwad10/Blog-api
-    cd todo-api
+    cd Blog-api
     ```
     
 2. **Install dependencies**
