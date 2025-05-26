@@ -23,3 +23,11 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 - dotenv
 
 ## 📮 API Endpoints
+
+| Method | Route             | Description          |
+|--------|-------------------|----------------------|
+| POST   | `/api/users`      | Create a user        |
+| POST   | `/api/posts`      | Create a post todo   |
+| POST   | `/api/comments`   | Create a comment     |
+|--------|-------------------|----------------------|
+
