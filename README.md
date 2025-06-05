@@ -106,3 +106,9 @@ Here are some example requests and responses using Postman to demonstrate how th
     - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
 
     ![Create Todo](./assets/getComment.png)
+
+8. **Put Update post**
+    - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
+
+    ![Create Todo](./assets/putPost.png)
+
