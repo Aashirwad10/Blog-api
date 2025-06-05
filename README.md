@@ -100,9 +100,9 @@ Here are some example requests and responses using Postman to demonstrate how th
 6. **GET Get a get single post with all comments**
     - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
 
-    ![Create Todo](./assets/getSinglePost.png)
+    ![Create Todo](./assets/getSinglePosts.png)
 
 7. **GET Get all comments**
     - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
 
-    ![Create Todo](./assets/getComment.png)
+    ![Create Todo](./assets/getComments.png)
