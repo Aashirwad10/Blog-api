@@ -112,3 +112,8 @@ Here are some example requests and responses using Postman to demonstrate how th
 
     ![Create Todo](./assets/putPost.png)
 
+9. **DELETE Delete post and its related comment**
+    - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
+
+    ![Create Todo](./assets/deletePostAndComment.png)
+
