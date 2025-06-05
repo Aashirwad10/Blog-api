@@ -86,3 +86,23 @@ Here are some example requests and responses using Postman to demonstrate how th
     - `http://localhost:5000/api/comments`  
 
     ![Create Todo](./assets/createComment.png)
+
+4. **GET Get all users**
+    - `http://localhost:5000/api/users`  
+
+    ![Create Todo](./assets/getUser.png)
+
+5. **GET Get all posts**
+    - `http://localhost:5000/api/posts`  
+
+    ![Create Todo](./assets/getPost.png)
+
+6. **GET Get a get single post with all comments**
+    - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
+
+    ![Create Todo](./assets/getSinglePost.png)
+
+7. **GET Get all comments**
+    - `http://localhost:5000/api/posts/684185d50e860094dd7e2473`  
+
+    ![Create Todo](./assets/getComment.png)
