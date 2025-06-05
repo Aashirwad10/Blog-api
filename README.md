@@ -27,7 +27,7 @@ A simple and beginner-friendly Blog API built with **Node.js**, **Express**, and
 | Method | Route             | Description                              |
 |--------|-------------------|------------------------------------------|
 | POST   | `/api/users`      | Create a user                            |
-| POST   | `/api/posts`      | Create a post todo                       |
+| POST   | `/api/posts`      | Create a post                            |
 | POST   | `/api/comments`   | Create a comment                         |
 | GET    | `/api/users`      | Get all users                            |
 | GET    | `/api/posts`      | Get all posts                            |
@@ -72,3 +72,17 @@ Server runs on `http://localhost:5000` (or your specified port)
     
 Here are some example requests and responses using Postman to demonstrate how the API works:
 
+1. **POST Create a user**
+    - `http://localhost:5000/api/users`  
+
+    ![Create Todo](./assets/createUser.png)
+
+2. **POST Create a post**
+    - `http://localhost:5000/api/posts`  
+
+    ![Create Todo](./assets/createPost.png)
+
+3. **POST Create a comment**
+    - `http://localhost:5000/api/comments`  
+
+    ![Create Todo](./assets/createComment.png)
