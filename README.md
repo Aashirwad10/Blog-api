@@ -117,3 +117,20 @@ Here are some example requests and responses using Postman to demonstrate how th
 
     ![Create Todo](./assets/deletePostAndComment.png)
 
+---
+
+## 🙋‍♂️ About Me
+
+This is a beginner-level project built as part of my learning journey in backend development.  
+I'm currently focused on building simple APIs, interacting with databases (MongoDB), and testing everything using Postman.  
+There’s just a little basic frontend for now.
+
+If you'd like to suggest improvements or just say hi, feel free to reach out:
+
+- 📧 Email: backend.aashirwad@gmail.com  
+- 📱 Instagram or Facebook: Linked in my GitHub profile bio
+
+Thanks for checking out the project! 🙇‍♂️
+
+Made with ❤️ while learning backend development.
+
